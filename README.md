@@ -1,6 +1,6 @@
 # FUTURE_DS_03
 🚦 Road Accident Analysis Dashboard
-📌 Task 3 Overview
+
 Objective:
 To analyze road accident data in order to identify high-risk areas, common causes, and trends. This dashboard aims to assist traffic authorities and policymakers in making informed decisions for road safety improvements.
 
